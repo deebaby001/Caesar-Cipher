@@ -1,3 +1,4 @@
+#This code was used more as a guide. I did not go with this outline.
 import sys
 
 
